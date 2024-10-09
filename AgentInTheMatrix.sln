@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentInTheMatrix", "AgentInTheMatrix\AgentInTheMatrix.csproj", "{63CBDC24-B188-4963-B041-1ACEFA43957C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootingTheAgent", "ShootingTheAgent\ShootingTheAgent.csproj", "{4B038715-9576-4D41-8660-37B22149F850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CBDC24-B188-4963-B041-1ACEFA43957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CBDC24-B188-4963-B041-1ACEFA43957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CBDC24-B188-4963-B041-1ACEFA43957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CBDC24-B188-4963-B041-1ACEFA43957C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B038715-9576-4D41-8660-37B22149F850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B038715-9576-4D41-8660-37B22149F850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B038715-9576-4D41-8660-37B22149F850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B038715-9576-4D41-8660-37B22149F850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66126BF-510F-4509-AF21-E17786402B8F}
+	EndGlobalSection
+EndGlobal
